@@ -23,7 +23,7 @@ $atual = new DateTime();
 $idade = date_diff($anoS, $atual);
 
  
-//echo $idade->format("%Y");
+
 
 
 if (empty($data && $nome)){
